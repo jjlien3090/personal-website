@@ -6,7 +6,7 @@ export const siteConfig = {
   email: "jjlien@umich.edu",
   resumeUrl: "/resume.pdf",
   social: {
-    github: "https://github.com/jeremylien",
+    github: "https://github.com/jjlien3090",
     linkedin: "https://linkedin.com/in/jjlien",
   },
 };
